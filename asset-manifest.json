@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/loganihrishi.github.io/loganihrishi/static/css/main.8f910ec4.css",
+    "main.js": "/loganihrishi.github.io/loganihrishi/static/js/main.a73a068b.js",
+    "static/js/845.63fe6309.chunk.js": "/loganihrishi.github.io/loganihrishi/static/js/845.63fe6309.chunk.js",
+    "static/media/profile.png": "/loganihrishi.github.io/loganihrishi/static/media/profile.000e8a7fb1d19d9242a3.png",
+    "static/media/Profile.jpeg": "/loganihrishi.github.io/loganihrishi/static/media/Profile.81ad47cc7840c1265428.jpeg",
+    "static/media/HMS.jpeg": "/loganihrishi.github.io/loganihrishi/static/media/HMS.4aba4edcbbe6c7002f51.jpeg",
+    "static/media/MazeEscaper.jpeg": "/loganihrishi.github.io/loganihrishi/static/media/MazeEscaper.ce122648055960220971.jpeg",
+    "static/media/chatsync.jpeg": "/loganihrishi.github.io/loganihrishi/static/media/chatsync.621919d8b9d7f8920acd.jpeg",
+    "static/media/InfRunner.jpeg": "/loganihrishi.github.io/loganihrishi/static/media/InfRunner.45c11410111e1ecbe09e.jpeg",
+    "index.html": "/loganihrishi.github.io/loganihrishi/index.html",
+    "main.8f910ec4.css.map": "/loganihrishi.github.io/loganihrishi/static/css/main.8f910ec4.css.map",
+    "main.a73a068b.js.map": "/loganihrishi.github.io/loganihrishi/static/js/main.a73a068b.js.map",
+    "845.63fe6309.chunk.js.map": "/loganihrishi.github.io/loganihrishi/static/js/845.63fe6309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f910ec4.css",
+    "static/js/main.a73a068b.js"
+  ]
+}
